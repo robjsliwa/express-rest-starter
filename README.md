@@ -1,5 +1,5 @@
 # express-rest-starter 
-
+Starter project for implementing REST APIs server with JWT authorization.
 
 # How to use it
 
